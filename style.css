@@ -78,8 +78,8 @@ footer p{
 }
 a:hover{
     color: cyan;
-images:hover{
-    color: hsl(0, 0%, 100%);
+#equilibrium:hover{
+ color: hsl(0, 0%, 100%) ;
 }
 }
 @media screen and (max-width:800px){
