@@ -87,6 +87,7 @@ footer p:hover{
 }
 footer span:hover{
     color: cyan;
+    
 }
 @media screen and (max-width:800px){
     main{
